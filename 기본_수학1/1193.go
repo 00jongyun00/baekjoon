@@ -17,14 +17,14 @@ func main() {
 	if sc.Scan() {
 		N, _ = strconv.Atoi(sc.Text())
 	}
-	for ; N > i; {
+	for N > i {
 		N -= i
 		i++
 	}
-	if i % 2 == 1 {
-		fmt.Fprintf(wr, "%d/%d", i + 1 - N, N)
+	if i%2 == 1 {
+		fmt.Fprintf(wr, "%d/%d", i+1-N, N)
 	} else {
 
-		fmt.Fprintf(wr, "%d/%d", N, i + 1 - N)
+		fmt.Fprintf(wr, "%d/%d", N, i+1-N)
 	}
 }

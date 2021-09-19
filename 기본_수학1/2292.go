@@ -18,7 +18,7 @@ func main() {
 		N, _ = strconv.Atoi(sc.Text())
 	}
 	for i = 1; i <= N; i++ {
-		s += (i-1) * 6
+		s += (i - 1) * 6
 		if N <= s {
 			break
 		}

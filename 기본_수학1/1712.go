@@ -17,6 +17,6 @@ func main() {
 		fmt.Fprintln(writer, -1)
 		return
 	} else {
-		fmt.Fprintln(writer, a / (c - b) + 1)
+		fmt.Fprintln(writer, a/(c-b)+1)
 	}
 }
