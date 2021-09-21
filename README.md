@@ -7,7 +7,7 @@ Teck blog: https://popawaw.tistory.com/category/algorithm/백준
 ### status 
 1. [x] 1차원 배열
 2. [x] 문자열
-3. [] 기본 수학 1
+3. [x] 기본 수학 1
 4. [] 기본 수학 2
 5. [] 재귀
 6. [] 브루트 포스
