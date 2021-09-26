@@ -15,7 +15,7 @@ func main() {
 
 	fmt.Fscanln(reader, &input)
 	for i := 0; i < len(input); i++ {
-		result += dial[int(input[i]) - 65]
+		result += dial[int(input[i])-65]
 	}
 
 	fmt.Fprintln(writer, result)
