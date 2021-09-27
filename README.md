@@ -10,7 +10,7 @@ Teck blog: https://popawaw.tistory.com/category/algorithm/백준
 3. [x] 기본 수학 1
 4. [x] 기본 수학 2
    - 터렛 문제 해결하기
-5. [] 재귀
+5. [x] 재귀
 6. [] 브루트 포스기
 7. [] 정렬
 8. [] 집합과 맵
