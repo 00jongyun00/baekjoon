@@ -13,7 +13,7 @@ Teck blog: https://popawaw.tistory.com/category/algorithm/백준
     - 터렛 문제 해결하기
 5. [x] 재귀
 6. [x] 브루트 포스
-7. [] 정렬
+7. [x] 정렬
 8. [] 집합과 맵
 9. [] 백트래킹
 10. [] 동적 계획법1
